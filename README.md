@@ -1,6 +1,8 @@
 # IZP
 My very first coding experience at BUT FIT.
 
-First project t9search was about working with arrays of chars.
+* Project 1 (t9search.c)
+  Basic programming constructs in C language.
 
-Second one was focused on proper working with dynamic memory.
+* Project 2 (cluster.c)
+  Implementation of cluster analysis to learn good practice when working with dynamic memory.
